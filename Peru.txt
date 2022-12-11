@@ -1,12 +1,1 @@
-
-Debe traerlo del repositorio gaaa
-Ya lo trage super gaaa
-Tas truqueando al txt mano
-Existe 2 cambios en git local
-Existe 2 cambios en git remoto en la nube
-=======
-Debe traerlo del repositorio gaaa 2
-Ya lo trage super gaaa 1
-Ahora si se biene lo chido
-- Ahora dire hands hands hands wanna head head head jesus said 
-- No se que eran eso de cambios con codigo raro
+pinga mrda
