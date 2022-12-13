@@ -1,2 +1,3 @@
 stamos usando stash
 Deberia estar modificado en readme.md
+seguimos con el curso
